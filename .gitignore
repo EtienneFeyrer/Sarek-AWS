@@ -1,0 +1,6 @@
+# ignore cache files
+.nextflow
+.vscode
+data
+results
+*.log
