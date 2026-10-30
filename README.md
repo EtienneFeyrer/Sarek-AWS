@@ -1,4 +1,4 @@
-## Germline Anaysis pipeline paired with somatic analysis pipeline using sarek [^1]
+## Germline anaysis paired with somatic analysis using sarek[^1]  
 - contains aws setup script: setup_insance.sh
 - Normal sequencing pipeline discover SNV's single nucleotide variants
 - Tumor sequencing pipeline discover SV's structural variants
